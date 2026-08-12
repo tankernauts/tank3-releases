@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Tank</title>
+    <link>https://tankernauts.github.io/tank3-releases/appcast.xml</link>
+    <description>Sparkle update feed for Tank (tankernauts/tank3)</description>
+    <language>en</language>
+    <!--
+      Empty until the first real release run. tank3's release.yml
+      workflow overwrites this file with the freshly-signed output of
+      generate_appcast on every release -- see tank3's
+      docs/release-packaging.md ("Sparkle update hosting") and this
+      repo's README. Never edited by hand.
+    -->
+  </channel>
+</rss>
