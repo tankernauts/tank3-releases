@@ -1,16 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
-  <channel>
-    <title>Tank</title>
-    <link>https://tankernauts.github.io/tank3-releases/appcast.xml</link>
-    <description>Sparkle update feed for Tank (tankernauts/tank3)</description>
-    <language>en</language>
-    <!--
-      Empty until the first real release run. tank3's release.yml
-      workflow overwrites this file with the freshly-signed output of
-      generate_appcast on every release -- see tank3's
-      docs/release-packaging.md ("Sparkle update hosting") and this
-      repo's README. Never edited by hand.
-    -->
-  </channel>
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Tank</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Fri, 14 Aug 2026 05:10:25 +0000</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/tankernauts/tank3-releases/releases/download/v0.1.0-47cd489/Tank.dmg" length="16550554" type="application/octet-stream" sparkle:edSignature="PJR2t0naBlE8d00wBXS8/lV/dl8QmiTnHQ86aTlkXKtR+JZ6W5ZRuZBsi3RF4/uqOEHyQv9pClaueUabRaBVCw=="/>
+        </item>
+    </channel>
 </rss>
