@@ -1,15 +1,15 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>Tank</title>
+        <title>Tank3</title>
         <item>
             <title>0.1.0</title>
-            <pubDate>Fri, 14 Aug 2026 05:10:25 +0000</pubDate>
-            <sparkle:version>1</sparkle:version>
+            <pubDate>Fri, 14 Aug 2026 12:35:36 +0000</pubDate>
+            <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/tankernauts/tank3-releases/releases/download/v0.1.0-47cd489/Tank.dmg" length="16550554" type="application/octet-stream" sparkle:edSignature="PJR2t0naBlE8d00wBXS8/lV/dl8QmiTnHQ86aTlkXKtR+JZ6W5ZRuZBsi3RF4/uqOEHyQv9pClaueUabRaBVCw=="/>
+            <enclosure url="https://github.com/tankernauts/tank3-releases/releases/download/v0.1.0-234183d/Tank3.dmg" length="16563997" type="application/octet-stream" sparkle:edSignature="U5VqJJeDTFwnlkDq5gKz8S7ucaP1R25+poC2qRjCSgSIiFY5xFILZzxaGXrKZUZV3Ff4zjaEi47rtFwVluZ3Cw=="/>
         </item>
     </channel>
 </rss>
