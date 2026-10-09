@@ -4,12 +4,12 @@
         <title>Tank3</title>
         <item>
             <title>0.1.0</title>
-            <pubDate>Wed, 07 Oct 2026 03:51:49 +0000</pubDate>
-            <sparkle:version>60</sparkle:version>
+            <pubDate>Fri, 09 Oct 2026 13:37:08 +0000</pubDate>
+            <sparkle:version>61</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/tankernauts/tank3-releases/releases/download/v0.1.0-r000060-51028280/Tank3.dmg" length="20940347" type="application/octet-stream" sparkle:edSignature="SWOby4rPCt8y0yCvpox/HvVHTwfSm/SJjp84CRmphrc47Z79zzewNY630Wm/lrnc6smDezZ+PbyZ2QYCiYHhCA=="/>
+            <enclosure url="https://github.com/tankernauts/tank3-releases/releases/download/v0.1.0-r000061-f8e6a750/Tank3.dmg" length="21306914" type="application/octet-stream" sparkle:edSignature="c3XZIf07JaztsNdSRUu11bos+cV3neZlOkEwEg5ousbTAabEkzr9M0wn762nnYy1I0xuX/ikYFhxNhNS+OhEBQ=="/>
         </item>
     </channel>
 </rss>
